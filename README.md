@@ -1,0 +1,2 @@
+# Shopping-Managment-System
+It is a project of shopping clothes and cosmetics and I created this project when I studied my first programming language C. Most of the people also prefer to start learning programming from C languages and at last they wanted to created some projects to know their grip on the functionalities of C language. Now, I think This project will help you and guide you completely
